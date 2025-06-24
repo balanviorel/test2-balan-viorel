@@ -7,10 +7,10 @@ public class Ex5 {
             sum = sum + arr[i];
 
 
-            System.out.println(sum);
+            
             }
 
-
+        System.out.println(sum);
 
     }
 }
